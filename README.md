@@ -55,19 +55,13 @@ ________________________________________________________________________________
 
 Ensure that the directory is been set up in the following way :
 
-      |_ Web_Scraping
-      
-             |_ key (dir) 
-            
-                |_ openai.txt
-                
-                |_ pinecone.txt
-                
-            |_ Sample_web_scrapping.ipynb
-            
-            |_ ReadMe.txt
-            
-            |_ requirements.txt
+      |_ Web_Scraping      
+             |_ key (dir)             
+                |_ openai.txt                
+                |_ pinecone.txt                
+             |_ Sample_web_scrapping.ipynb            
+             |_ ReadMe.md            
+             |_ requirements.txt
 
 Here, 
 
