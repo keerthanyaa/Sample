@@ -56,22 +56,35 @@ ________________________________________________________________________________
 Ensure that the directory is been set up in the following way :
 
 |_ Web_Scraping
+
       |_ key (dir) 
+      
           |_ openai.txt
+          
           |_ pinecone.txt
+          
       |_ Sample_web_scrapping.ipynb
+      
       |_ ReadMe.txt
+      
       |_ requirements.txt
 
 Here, 
 
 Web_Scraping : is the working directory
+
 key          : is a folder consisting of two txt filed - 
+
               openai.txt : paste your OpenAi API key (without enclosing in quote)
+              
               pinecone.txt : paste your pinecone API key (without enclosing in quote)
+              
 Sample_web_scarpping.ipynb : the Jupyter Notebook file (To be run)
+
 ReadMe.txt
+
 requirements.txt : consists of the necessary pip installations
+
 
       
 
