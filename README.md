@@ -81,7 +81,7 @@ Here,
                     
       Sample_web_scarpping.ipynb : the Jupyter Notebook file (To be run)
       
-      ReadMe.txt
+      ReadMe.md
       
       requirements.txt : consists of the necessary pip installations
       
